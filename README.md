@@ -40,15 +40,17 @@ Lalu selanjutnya ada grafik yang dimana ada 3 grafik: <br>
     1. Employee by Involvement: menjelaskan mengenai keterlibatan karyawan dengan project yang sudah pernah dilakukan <br>
     2. Employee by Generation: menjelaskan jumlah tiap generation yang ada di perusahaan tersebut<br>
     3. Employee by Education: background pendidikan dari karyawan<br>
+    
 Lalu ada 2 tabel: <br>
     1. Employee by Education Field: Bidang pendidikan yang ditempuh oleh masing-masing karyawan<br>
     2. Employee by Job Level: Jenjang pekerjaan yang dipegang oleh setiap karyawan<br>
+    
 Ada 3 Pie Chart: <br>
     1. Employee by Marital status: Status pernikahan dari setiap karyawan<br>
     2. Employee by Gender: Jenis kelamin dari tiap karyawan<br>
     3. Employee by Distance: Jarak antar rumah karyawan dengan perusahaan<br>
 
-###### Dashboard Preview
+ Dashboard Preview
 
 ![Human Resources Dashboard Preview](https://github.com/ariniamsr/Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources/blob/main/Result.png)
 
