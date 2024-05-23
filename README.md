@@ -37,16 +37,16 @@ Business dashboard menggunakan dataset yang telah melalui tahapan persiapan. Dat
 Pada dashboard yang sudah saya buat, terdapat filter yang terdiri dari gender, age, Attrition dan juga ada jumlah karyawaan beserta jumlah keseluruhan Attrition. <br>
 
 Lalu selanjutnya ada grafik yang dimana ada 3 grafik: <br>
-    1. Employee by Involvement: menjelaskan mengenai keterlibatan karyawan dengan project yang sudah pernah dilakukan
-    2. Employee by Generation: menjelaskan jumlah tiap generation yang ada di perusahaan tersebut
-    3. Employee by Education: background pendidikan dari karyawan
+    1. Employee by Involvement: menjelaskan mengenai keterlibatan karyawan dengan project yang sudah pernah dilakukan <br>
+    2. Employee by Generation: menjelaskan jumlah tiap generation yang ada di perusahaan tersebut<br>
+    3. Employee by Education: background pendidikan dari karyawan<br>
 Lalu ada 2 tabel: <br>
-    1. Employee by Education Field: Bidang pendidikan yang ditempuh oleh masing-masing karyawan
-    2. Employee by Job Level: Jenjang pekerjaan yang dipegang oleh setiap karyawan
+    1. Employee by Education Field: Bidang pendidikan yang ditempuh oleh masing-masing karyawan<br>
+    2. Employee by Job Level: Jenjang pekerjaan yang dipegang oleh setiap karyawan<br>
 Ada 3 Pie Chart: <br>
-    1. Employee by Marital status: Status pernikahan dari setiap karyawan
-    2. Employee by Gender: Jenis kelamin dari tiap karyawan
-    3. Employee by Distance: Jarak antar rumah karyawan dengan perusahaan
+    1. Employee by Marital status: Status pernikahan dari setiap karyawan<br>
+    2. Employee by Gender: Jenis kelamin dari tiap karyawan<br>
+    3. Employee by Distance: Jarak antar rumah karyawan dengan perusahaan<br>
 
 ###### Dashboard Preview
 
