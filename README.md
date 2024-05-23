@@ -50,11 +50,11 @@ Ada 3 Pie Chart: <br>
     2. Employee by Gender: Jenis kelamin dari tiap karyawan<br>
     3. Employee by Distance: Jarak antar rumah karyawan dengan perusahaan<br>
 
- Dashboard Preview
+ ##### Dashboard Preview
 
 ![Human Resources Dashboard Preview](https://github.com/ariniamsr/Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources/blob/main/Result.png)
 
-####### Kesimpulan dari Dashboard
+###### Kesimpulan dari Dashboard
 Pada gambar diatas, bisa saya simpulkan bahwa attrition terbesar dimiliki oleh gender pria, dengan status pernikahan "single" dan distance / jarak rumah yang intermediete_distance
     
 Link business dashboard:
