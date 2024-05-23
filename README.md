@@ -20,7 +20,7 @@ bahasa pemrograman Python sebagai tool utama kita dalam proyek ini.
 berbagai library pendukung untuk pengolahan data dan pengembangan model machine learning.
 
 ### Persiapan
-Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee
+Sumber data: https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee <br>
 Proyek ini dibuat melalaui Google Colaboratory (Google Colab).
 ```
 https://colab.research.google.com/drive/1qJlMYH4BZUhiKw97v2wlJGoOH8qJaBe7?usp=sharing
@@ -34,16 +34,16 @@ pip install numpy pandas matplotlib seaborn scikit-learn==1.2.2 joblib==1.4.2
 Business dashboard menggunakan dataset yang telah melalui tahapan persiapan. Dataset tersebut di ekspor dalam format csv dari notebook.ipynb dan setelah itu di import ke dalam Looker Studio. Selain itu, pada looker studio ada penyesuaian dan modifikasi tipe data pada beberapa variabel. 
 
 #### Isi dari Dashboard
-Pada dashboard yang sudah saya buat, terdapat filter yang terdiri dari gender, age, Attrition dan juga ada jumlah karyawaan beserta jumlah keseluruhan Attrition. 
+Pada dashboard yang sudah saya buat, terdapat filter yang terdiri dari gender, age, Attrition dan juga ada jumlah karyawaan beserta jumlah keseluruhan Attrition. <br>
 
-Lalu selanjutnya ada grafik yang dimana ada 3 grafik:
+Lalu selanjutnya ada grafik yang dimana ada 3 grafik: <br>
     1. Employee by Involvement: menjelaskan mengenai keterlibatan karyawan dengan project yang sudah pernah dilakukan
     2. Employee by Generation: menjelaskan jumlah tiap generation yang ada di perusahaan tersebut
     3. Employee by Education: background pendidikan dari karyawan
-Lalu ada 2 tabel:
+Lalu ada 2 tabel: <br>
     1. Employee by Education Field: Bidang pendidikan yang ditempuh oleh masing-masing karyawan
     2. Employee by Job Level: Jenjang pekerjaan yang dipegang oleh setiap karyawan
-Ada 3 Pie Chart:
+Ada 3 Pie Chart: <br>
     1. Employee by Marital status: Status pernikahan dari setiap karyawan
     2. Employee by Gender: Jenis kelamin dari tiap karyawan
     3. Employee by Distance: Jarak antar rumah karyawan dengan perusahaan
