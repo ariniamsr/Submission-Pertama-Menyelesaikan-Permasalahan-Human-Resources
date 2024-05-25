@@ -81,3 +81,9 @@ Berikut ini beberapa rekomendasi action items yang harus dilakukan oleh perusaha
 4. Menyediakan fasilitas dan program yang mendukung keseimbangan kehidupan kerja: Menyediakan fasilitas seperti ruang istirahat yang nyaman, gym, atau daycare. Menawarkan program seperti kelas yoga, meditasi, atau konseling kesehatan mental untuk membantu karyawan milenial mengelola stres dan menjaga kesehatan mental mereka.
 5. Mengadakan acara dan kegiatan sosial: Mengadakan acara dan kegiatan sosial untuk membangun rasa kebersamaan dan komunitas antar karyawan. Hal ini dapat meningkatkan moral dan motivasi karyawan.
 6. Menawarkan program bantuan untuk pengembangan diri: Menawarkan program bantuan untuk pengembangan diri, seperti kursus bahasa, pelatihan kepemimpinan, atau program mentoring. Hal ini dapat membantu karyawan milenial lajang mencapai tujuan pribadi dan profesional mereka.
+
+
+
+## Review
+berikut merupakan penilaian dari Dicoding
+![Review Penilaian](https://github.com/ariniamsr/Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources/blob/main/Penilaian%20dari%20dicoding.png)
