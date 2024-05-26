@@ -85,5 +85,5 @@ Berikut ini beberapa rekomendasi action items yang harus dilakukan oleh perusaha
 
 
 ## Review
-berikut merupakan penilaian dari Dicoding
+Berikut merupakan penilaian dari Dicoding
 ![Review Penilaian](https://github.com/ariniamsr/Submission-Pertama-Menyelesaikan-Permasalahan-Human-Resources/blob/main/Penilaian%20dari%20dicoding.png)
